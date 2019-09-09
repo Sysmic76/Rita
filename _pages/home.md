@@ -14,14 +14,14 @@ feature_row:
   - image_path: /assets/images/2.jpg
     alt: "customizable"
     title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "From Automatic Translations, to User only, Multiple Channels and over 100+ supported Langauges"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/1.jpg
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "Totally Secure"
+    title: "Totally Secure"
+    excerpt: "Built in Javascript, run on Node.js, hosted on Heroku and a command system thats Administrator only."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
