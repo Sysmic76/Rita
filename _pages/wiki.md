@@ -1,7 +1,7 @@
 ---
-title: "Security, The Proof is in the Pudding"
+title: "Everthing you need to know and more."
 permalink: /wiki/
-excerpt: "Build Logs and Security Reports"
+excerpt: "Support pages for Rita"
 redirect_from:
   - /theme-setup/
 toc: true
