@@ -59,7 +59,7 @@ Translation bot built using `discord.js` and `Google Translate API`.
 * Translate messages by reacting with flag emoji
 * Translate last message(s) in channel
 * Translate to multiple languages at once
-* Automatic translation of channels with option to forward translations to users or seperate channels.
+* Automatic translation of channels with option to forward translations to users or separate channels.
 * Supports 100+ languages
 
 ## <a name=""></a>Usage
