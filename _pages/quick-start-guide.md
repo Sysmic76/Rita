@@ -69,7 +69,6 @@ This project was originally released by Aziz under the MIT license. He chose to 
 
 ## Design Team
 
-## <a name="design-team"></a>Design Team
 * Zycore / [ZyC0R3](https://github.com/ZyC0R3)
 * Artanis / [ArtanisTheOne](https://github.com/ArtanisTheOne)
 * Balthazar / [Jshep89](https://github.com/JShep89)
