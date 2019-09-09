@@ -39,15 +39,15 @@ or
 
 ### Get help inside Discord
 
-Use 
+Use this command within any channel the bot has permissions
 ```bash
 !translate help
 ``` 
-or mention 
+or mention the bot like so 
 ```bash
 @Translator
 ```
 
 ### Requesting features or reporting bugs
 
-Please join the [Official Rita Discord Server](https://discord.gg/mgNR64R) to find out how to operate the bot and report bugs. 
+Please join the [Official Rita Discord Server](https://discord.gg/mgNR64R) to get support, keep up to date with changes and report bugs. There is always somone that can help you.  
