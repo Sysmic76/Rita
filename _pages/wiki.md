@@ -15,7 +15,7 @@ The bot's default prefix is !t (or !translate) - All commands must start with th
 
 * Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.
 
-* Bot must have proper permissions in all relevant channels for full functionality (read, write, react, mention, attachments, embed).
+* Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).
 
 ### Command structure
 
@@ -25,17 +25,28 @@ The bot's default prefix is !t (or !translate) - All commands must start with th
 
 For Example:
 
+```bash
+!translate help misc
 ```
-`!translate` `help` `custom`
+or
+```bash
+!t help misc
 ```
-
-`!t` `help` `custom`
-
-`@Translator` `help` `custom`
+or
+```bash
+@Translator help misc
+```
 
 ### Get help inside Discord
 
-Use `!translate help` or mention `@Translator`
+Use 
+```bash
+!translate help
+``` 
+or mention 
+```bash
+@Translator
+```
 
 ### Requesting features or reporting bugs
 
