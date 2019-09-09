@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/home_banner.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Get Started "
-      url: "/docs/quick-start-guide/"
+      url: "/quick-start-guide/"
 excerpt: >
   A Real-Time Intergalactic Translating Assistant, Rita, is a translation bot built using discord.js and Google Translate API.<br />
   <small><a href="https://github.com/ZyC0R3/Rita/releases/tag/1.1.7">Latest release v1.1.7</a></small>
