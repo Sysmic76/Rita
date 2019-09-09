@@ -3,9 +3,9 @@ main:
   - title: "Quick-Start Guide"
     url: /quick-start-guide/
   - title: "About"
-    url: /docs/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /about/
+  - title: "Home"
+    url: /home/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -16,7 +16,7 @@ docs:
   - title: About Rita
     children:
       - title: "Who?"
-        url: /docs/quick-start-guide/
+        url: /quick-start-guide/
       - title: "What?"
         url: /docs/structure/
       - title: "Where?"
