@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home_banner.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Get Started "
+    - label: "Quick Start Guide"
       url: "/quick-start-guide/"
 excerpt: >
   A Real-Time Intergalactic Translating Assistant, Rita, is a translation bot built using discord.js and Google Translate API.<br />
@@ -17,7 +17,7 @@ feature_row:
     excerpt: "From Automatic Translations, to User only, Multiple Channels and over 100+ supported Langauges"
     url: "/wiki/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Get Started"
   - image_path: /assets/images/1.jpg
     alt: "Totally Secure"
     title: "Totally Secure"
