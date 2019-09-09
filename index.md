@@ -1,3 +1,9 @@
+---
+sidebar:
+  nav: "docs
+ "
+---
+
 ## Rita
 
 ## What is Rita and who are we?
