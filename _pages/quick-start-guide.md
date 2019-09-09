@@ -1,8 +1,7 @@
 ---
 title: "Quick-Start Guide"
 permalink: /quick-start-guide/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2019-08-20T21:36:11-04:00
+excerpt: "How to quickly install and setup Rita."
 redirect_from:
   - /theme-setup/
 toc: true
@@ -22,7 +21,7 @@ Use the button in the upper righthand side of this page to fork the repo so that
 
 ### Step 2 - Create a new Discord App
 
-Create a new Discord App at https://discordapp.com/developers/applications/me/create
+Create a new [Discord App](https://discordapp.com/developers/applications/me/create)
 
 Give app a friendly name and click the **Create App** button
 
@@ -41,7 +40,7 @@ Copy the bot's **TOKEN**, you will need it later
 
 ### Step 3 - Create a Heroku account
 
-Create a new Heroku account at https://id.heroku.com/signup/login) *(It's free!)*
+Create a new [Heroku](https://id.heroku.com/signup/login ) account. *(It's free!)*
 
 Create a new app. It's name must be unique and composed of all lowercase letters and dashes. 
 Something like `yourname-discordbot` is fine
