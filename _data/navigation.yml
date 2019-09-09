@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Wiki"
-    url: /wikihome/
+    url: /wiki/
   - title: "Support"
     url: /support/
   
