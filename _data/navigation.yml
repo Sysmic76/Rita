@@ -1,12 +1,37 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: _pages/quick-start-guide.md
+    url: /quick-start-guide/
   - title: "About"
-    url: _pages/about.md
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+# documentation links
+docs:
+  - title: About Rita
+    children:
+      - title: "Who?"
+        url: /docs/quick-start-guide/
+      - title: "What?"
+        url: /docs/structure/
+      - title: "Where?"
+        url: /docs/installation/
+      - title: "Why?"
+        url: /docs/upgrading/
+  - title: New Bot
+    children:
+      - title: "Demo Link"
+        url: /about/
+      - title: "Demo Links"
+        url: /about/
+  - title: Content
+    children:
+      - title: "Demo Link"
+        url: /about/
+      - title: "Demo Links"
+        url: /about/
