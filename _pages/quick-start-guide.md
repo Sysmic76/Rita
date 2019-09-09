@@ -7,7 +7,7 @@ redirect_from:
 toc: true
 ---
 
-Rita is a an automatic translation bot built using `discord.js` and `Google Translate API`. With speed, efficiency, security and ease kept in mind, find the perfect guide for you below.
+Rita is an automatic translation bot built using `discord.js` and `Google Translate API`. With speed, efficiency, security and ease kept in mind, find the perfect guide for you below.
 
 ## Build Status and Bot Info
 
@@ -19,12 +19,12 @@ Take a look at the current build Status of Rita, is she up to scratch [Click Her
 * Translate messages by reacting with flag emoji
 * Translate last message(s) in channel
 * Translate to multiple languages at once
-* Automatic translation of channels with option to forward translations to users or seperate channels.
+* Automatic translation of channels with the option to forward translations to users or separate channels.
 * Supports 100+ languages
 
 ## Usage
 
-* Cerate your own with the instructions below.
+* Create your own with the instructions below.
 * Write !translate help or !t help for a list of commands.
 
 ## Setting up a New Bot (RECOMMENDED)
@@ -33,7 +33,7 @@ Instructions perfect for the first time bot creator, simple and step by step [Cl
 
 ## How to Update
 
-Ar you a little behind the curve, do you need to upadte your bot [Click Here](/update/)
+Are you a little behind the curve, do you need to update your bot [Click Here](/update/)
 
 ## C-3PO to RITA Bot Migration (EXPERIMENTAL)
 
@@ -45,7 +45,7 @@ Sometimes you need to edit the Database manually, This is not something you shou
 
 ## Local Installation Support
 
-The bot can also be run locally without Heroku. The local setup requires more steps since the database needs to be setup and the development tools need be installed. Start with the steps 1 and 2 in Setting up a [New Bot](/new-bot/) and then [Click Here](/local/)
+The bot can also be run locally without Heroku. The local setup requires more steps since the database needs to be set up and the development tools need to be installed. Start with the steps 1 and 2 in Setting up a [New Bot](/new-bot/) and then [Click Here](/local/)
 
 ## Setup on a Raspberry Pi
 
@@ -65,7 +65,7 @@ Look no further for example commands [Click Here](/commands/)
 
 ## Credits & License
 
-This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for simple and free deployment of the bot using Heroku. ZyC0R3 Picked up the fork and as part of a team fixed over 200 errors and brought it in to the modern age, All would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
+This project was originally released by Aziz under the MIT license. He chose to take the project private/commercial at version 0.4.2 Beta. Bobby Johnson forked the project and renamed it Louie after his dog. AlooAkbar forked Louie and added the necessary modifications for the simple and free deployment of the bot using Heroku. ZyC0R3 Picked up the fork and as part of a team fixed over 200 errors and brought it into the modern age, All would like to thank Aziz for his hard work and making these early versions OSS so that others may learn and build on his hard work to share with the community.
 
 ## Design Team
 
