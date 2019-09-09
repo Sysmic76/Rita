@@ -23,16 +23,14 @@ The bot's default prefix is !t (or !translate) - All commands must start with th
 [prefix] + [main command] + [parameters]
 ```
 
-For Example:
+**For Example:**
 
 ```bash
 !translate help misc
 ```
-or
 ```bash
 !t help misc
 ```
-or
 ```bash
 @Translator help misc
 ```
@@ -43,10 +41,6 @@ Use this command within any channel the bot has permissions
 ```bash
 !translate help
 ``` 
-or mention the bot like so 
-```bash
-@Translator
-```
 
 ### Requesting features or reporting bugs
 
