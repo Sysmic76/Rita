@@ -1,6 +1,6 @@
 ---
 title: "Security, The Proof is in the Pudding"
-permalink: /secure/
+permalink: /wiki/
 excerpt: "Build Logs and Security Reports"
 redirect_from:
   - /theme-setup/
