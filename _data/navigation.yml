@@ -4,12 +4,10 @@ main:
     url: /quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Home"
-    url: /home/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Wiki"
+    url: /wikihome/
+  - title: "Support"
+    url: /support/
   
 # documentation links
 docs:
