@@ -33,7 +33,7 @@ Translates a message in the server when you react to it with a flag emoji.
 
 The full Supported list can be found below
 
-| Flag | Flag Code | Country | Translates to | Lang Code |
+| Flag | Flag Code | Country | Translates To | Language Codes |
 |-----------------------------------------------------------------------------|-----------|------------------------------------|--------------------------------|--------------------|
 | <img src="/assets/images/flags/named/flag_af.png" width="50" height="50" /> | :flag_af: | Afghanistan | Pashto | ps |
 | <img src="/assets/images/flags/named/flag_ax.png" width="50" height="50" /> | :flag_ax: | Aland Islands | Swedish | sv |
