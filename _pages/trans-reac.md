@@ -33,8 +33,8 @@ Translates a message in the server when you react to it with a flag emoji.
 
 The full Supported list can be found below
 
-| Flag | Flag Code | Country | Translates to | Lang Code |
-|-----------------------------------------------------------------------------|-----------|------------------------------------|-------------------------------------|--------------------|
+| Flag | Flag Code | Country | Translates Tonga | Lang Code |
+|-----------------------------------------------------------------------------|-----------|------------------------------------|-------------------------------------------------|--------------------|
 | <img src="/assets/images/flags/named/flag_af.png" width="50" height="50" /> | :flag_af: | Afghanistan | Pashto | ps |
 | <img src="/assets/images/flags/named/flag_ax.png" width="50" height="50" /> | :flag_ax: | Aland Islands | Swedish | sv |
 | <img src="/assets/images/flags/named/flag_al.png" width="50" height="50" /> | :flag_al: | Albania | Albanian | sq |
@@ -132,7 +132,7 @@ The full Supported list can be found below
 | <img src="/assets/images/flags/named/flag_hm.png" width="50" height="50" /> | :flag_hm: | Heard Island & Mcdonald Islands | null | null |
 | <img src="/assets/images/flags/named/flag_va.png" width="50" height="50" /> | :flag_va: | Holy See (Vatican City State) | Latin, Italian | la, it |
 | <img src="/assets/images/flags/named/flag_hn.png" width="50" height="50" /> | :flag_hn: | Honduras | Spanish | es |
-| <img src="/assets/images/flags/named/flag_hk.png" width="50" height="50" /> | :flag_hk: | Hong Kong | Chinese-tw, English | zh-tw, en |
+| <img src="/assets/images/flags/named/flag_hk.png" width="50" height="50" /> | :flag_hk: | Hong Kong | Chinese, English | zh-tw, en |
 | <img src="/assets/images/flags/named/flag_hu.png" width="50" height="50" /> | :flag_hu: | Hungary | Hungarian | hu |
 | <img src="/assets/images/flags/named/flag_is.png" width="50" height="50" /> | :flag_is: | Iceland | Icelandic | is |
 | <img src="/assets/images/flags/named/flag_in.png" width="50" height="50" /> | :flag_in: | India | Hindi | hi |
@@ -162,7 +162,7 @@ The full Supported list can be found below
 | <img src="/assets/images/flags/named/flag_li.png" width="50" height="50" /> | :flag_li: | Liechtenstein | German | de |
 | <img src="/assets/images/flags/named/flag_lt.png" width="50" height="50" /> | :flag_lt: | Lithuania | Lithuanian | lt |
 | <img src="/assets/images/flags/named/flag_lu.png" width="50" height="50" /> | :flag_lu: | Luxembourg | Letzeburgesch, French, German | lb, fr, de |
-| <img src="/assets/images/flags/named/flag_mo.png" width="50" height="50" /> | :flag_mo: | Macao | Chinese-tw, Portuguese | zh-tw, pt |
+| <img src="/assets/images/flags/named/flag_mo.png" width="50" height="50" /> | :flag_mo: | Macao | Chinese, Portuguese | zh-tw, pt |
 | <img src="/assets/images/flags/named/flag_mk.png" width="50" height="50" /> | :flag_mk: | Macedonia | Macedonian | mk |
 | <img src="/assets/images/flags/named/flag_mg.png" width="50" height="50" /> | :flag_mg: | Madagascar | Malagasy, French | mg, fr |
 | <img src="/assets/images/flags/named/flag_mw.png" width="50" height="50" /> | :flag_mw: | Malawi | English | en |
@@ -184,10 +184,10 @@ The full Supported list can be found below
 | <img src="/assets/images/flags/named/flag_ms.png" width="50" height="50" /> | :flag_ms: | Montserrat | English | en |
 | <img src="/assets/images/flags/named/flag_ma.png" width="50" height="50" /> | :flag_ma: | Morocco | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_mz.png" width="50" height="50" /> | :flag_mz: | Mozambique | Portuguese | pt |
-| <img src="/assets/images/flags/named/flag_mm.png" width="50" height="50" /> | :flag_mm: | Myanmar | my | my |
+| <img src="/assets/images/flags/named/flag_mm.png" width="50" height="50" /> | :flag_mm: | Myanmar | Burmese | my |
 | <img src="/assets/images/flags/named/flag_na.png" width="50" height="50" /> | :flag_na: | Namibia | English | en |
-| <img src="/assets/images/flags/named/flag_nr.png" width="50" height="50" /> | :flag_nr: | Nauru | na | na |
-| <img src="/assets/images/flags/named/flag_np.png" width="50" height="50" /> | :flag_np: | Nepal | ne | ne |
+| <img src="/assets/images/flags/named/flag_nr.png" width="50" height="50" /> | :flag_nr: | Nauru | Nauru | na |
+| <img src="/assets/images/flags/named/flag_np.png" width="50" height="50" /> | :flag_np: | Nepal | Nepali | ne |
 | <img src="/assets/images/flags/named/flag_nl.png" width="50" height="50" /> | :flag_nl: | Netherlands | Dutch | nl |
 | <img src="/assets/images/flags/named/flag_an.png" width="50" height="50" /> | :flag_an: | Netherlands Antilles | Dutch | nl |
 | <img src="/assets/images/flags/named/flag_nc.png" width="50" height="50" /> | :flag_nc: | New Caledonia | French | fr |
@@ -195,28 +195,28 @@ The full Supported list can be found below
 | <img src="/assets/images/flags/named/flag_ni.png" width="50" height="50" /> | :flag_ni: | Nicaragua | Spanish | es |
 | <img src="/assets/images/flags/named/flag_ne.png" width="50" height="50" /> | :flag_ne: | Niger | French | fr |
 | <img src="/assets/images/flags/named/flag_ng.png" width="50" height="50" /> | :flag_ng: | Nigeria | English | en |
-| <img src="/assets/images/flags/named/flag_nu.png" width="50" height="50" /> | :flag_nu: | Niue | English, niu | en, niu |
+| <img src="/assets/images/flags/named/flag_nu.png" width="50" height="50" /> | :flag_nu: | Niue | English, Niuean | en, niu |
 | <img src="/assets/images/flags/named/flag_nf.png" width="50" height="50" /> | :flag_nf: | Norfolk Island | English | en |
-| <img src="/assets/images/flags/named/flag_mp.png" width="50" height="50" /> | :flag_mp: | Northern Mariana Islands | English, Chamorro, cal | en, ch, cal |
+| <img src="/assets/images/flags/named/flag_mp.png" width="50" height="50" /> | :flag_mp: | Northern Mariana Islands | English, Chamorro, Carolinian | en, ch, cal |
 | <img src="/assets/images/flags/named/flag_no.png" width="50" height="50" /> | :flag_no: | Norway | Norwegian | no |
 | <img src="/assets/images/flags/named/flag_om.png" width="50" height="50" /> | :flag_om: | Oman | Arabic | ar |
-| <img src="/assets/images/flags/named/flag_pk.png" width="50" height="50" /> | :flag_pk: | Pakistan | ur | ur |
-| <img src="/assets/images/flags/named/flag_pw.png" width="50" height="50" /> | :flag_pw: | Palau | English, pau | en, pau |
+| <img src="/assets/images/flags/named/flag_pk.png" width="50" height="50" /> | :flag_pk: | Pakistan | Urdu | ur |
+| <img src="/assets/images/flags/named/flag_pw.png" width="50" height="50" /> | :flag_pw: | Palau | English, Palauan | en, pau |
 | <img src="/assets/images/flags/named/flag_ps.png" width="50" height="50" /> | :flag_ps: | Palestinian Territory | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_pa.png" width="50" height="50" /> | :flag_pa: | Panama | Spanish | es |
-| <img src="/assets/images/flags/named/flag_pg.png" width="50" height="50" /> | :flag_pg: | Papua New Guinea | English, ho, tpi | en, ho, tpi |
-| <img src="/assets/images/flags/named/flag_py.png" width="50" height="50" /> | :flag_py: | Paraguay | Spanish, gug | es, gug |
+| <img src="/assets/images/flags/named/flag_pg.png" width="50" height="50" /> | :flag_pg: | Papua New Guinea | English, Hiri Motu, Tok Pisin | en, ho, tpi |
+| <img src="/assets/images/flags/named/flag_py.png" width="50" height="50" /> | :flag_py: | Paraguay | Spanish, Paraguayan Guaraní | es, gug |
 | <img src="/assets/images/flags/named/flag_pe.png" width="50" height="50" /> | :flag_pe: | Peru | Spanish | es |
-| <img src="/assets/images/flags/named/flag_ph.png" width="50" height="50" /> | :flag_ph: | Philippines | tl | tl |
+| <img src="/assets/images/flags/named/flag_ph.png" width="50" height="50" /> | :flag_ph: | Philippines | Tagalog | tl |
 | <img src="/assets/images/flags/named/flag_pn.png" width="50" height="50" /> | :flag_pn: | Pitcairn | English | en |
-| <img src="/assets/images/flags/named/flag_pl.png" width="50" height="50" /> | :flag_pl: | Poland | pl | pl |
+| <img src="/assets/images/flags/named/flag_pl.png" width="50" height="50" /> | :flag_pl: | Poland | Polish | pl |
 | <img src="/assets/images/flags/named/flag_pt.png" width="50" height="50" /> | :flag_pt: | Portugal | Portuguese | pt |
 | <img src="/assets/images/flags/named/flag_pr.png" width="50" height="50" /> | :flag_pr: | Puerto Rico | Spanish | es |
 | <img src="/assets/images/flags/named/flag_qa.png" width="50" height="50" /> | :flag_qa: | Qatar | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_re.png" width="50" height="50" /> | :flag_re: | Reunion | French | fr |
 | <img src="/assets/images/flags/named/flag_ro.png" width="50" height="50" /> | :flag_ro: | Romania | Romanian | ro |
 | <img src="/assets/images/flags/named/flag_ru.png" width="50" height="50" /> | :flag_ru: | Russian Federation | Russian | ru |
-| <img src="/assets/images/flags/named/flag_rw.png" width="50" height="50" /> | :flag_rw: | Rwanda | rw, English, French, Swahili | rw, en, fr, sw |
+| <img src="/assets/images/flags/named/flag_rw.png" width="50" height="50" /> | :flag_rw: | Rwanda | Kinyarwanda, English, French, Swahili | rw, en, fr, sw |
 | <img src="/assets/images/flags/named/flag_bl.png" width="50" height="50" /> | :flag_bl: | Saint Barthelemy | French | fr |
 | <img src="/assets/images/flags/named/flag_sh.png" width="50" height="50" /> | :flag_sh: | Saint Helena | English | en |
 | <img src="/assets/images/flags/named/flag_kn.png" width="50" height="50" /> | :flag_kn: | Saint Kitts And Nevis | English | en |
@@ -232,51 +232,51 @@ The full Supported list can be found below
 | <img src="/assets/images/flags/named/flag_rs.png" width="50" height="50" /> | :flag_rs: | Serbia | Serbian | sr |
 | <img src="/assets/images/flags/named/flag_sc.png" width="50" height="50" /> | :flag_sc: | Seychelles | English, French | en, fr |
 | <img src="/assets/images/flags/named/flag_sl.png" width="50" height="50" /> | :flag_sl: | Sierra Leone | English | en |
-| <img src="/assets/images/flags/named/flag_sg.png" width="50" height="50" /> | :flag_sg: | Singapore | English, ta, Chinese-tw, Malay | en, ta, zh-tw, ms |
-| <img src="/assets/images/flags/named/flag_sk.png" width="50" height="50" /> | :flag_sk: | Slovakia | sk | sk |
-| <img src="/assets/images/flags/named/flag_si.png" width="50" height="50" /> | :flag_si: | Slovenia | sl | sl |
+| <img src="/assets/images/flags/named/flag_sg.png" width="50" height="50" /> | :flag_sg: | Singapore | English, Tamil, Chinese, Malay | en, ta, zh-tw, ms |
+| <img src="/assets/images/flags/named/flag_sk.png" width="50" height="50" /> | :flag_sk: | Slovakia | Slovak | sk |
+| <img src="/assets/images/flags/named/flag_si.png" width="50" height="50" /> | :flag_si: | Slovenia | Slovenian | sl |
 | <img src="/assets/images/flags/named/flag_sb.png" width="50" height="50" /> | :flag_sb: | Solomon Islands | English | en |
 | <img src="/assets/images/flags/named/flag_so.png" width="50" height="50" /> | :flag_so: | Somalia | Somali, Arabic | so, ar |
-| <img src="/assets/images/flags/named/flag_za.png" width="50" height="50" /> | :flag_za: | South Africa | English, af, Southern Sotho, xh, zu | en, af, st, xh, zu |
+| <img src="/assets/images/flags/named/flag_za.png" width="50" height="50" /> | :flag_za: | South Africa | English, Afrikaans, Southern Sotho, Xhosa, Zulu | en, af, st, xh, zu |
 | <img src="/assets/images/flags/named/flag_gs.png" width="50" height="50" /> | :flag_gs: | South Georgia And Sandwich Islands | English | en |
 | <img src="/assets/images/flags/named/flag_es.png" width="50" height="50" /> | :flag_es: | Spain | Spanish | es |
-| <img src="/assets/images/flags/named/flag_lk.png" width="50" height="50" /> | :flag_lk: | Sri Lanka | si, ta | si, ta |
+| <img src="/assets/images/flags/named/flag_lk.png" width="50" height="50" /> | :flag_lk: | Sri Lanka | Sinhalese, Tamil | si, ta |
 | <img src="/assets/images/flags/named/flag_sd.png" width="50" height="50" /> | :flag_sd: | Sudan | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_sr.png" width="50" height="50" /> | :flag_sr: | Suriname | Dutch | nl |
 | <img src="/assets/images/flags/named/flag_sj.png" width="50" height="50" /> | :flag_sj: | Svalbard And Jan Mayen | Norwegian | no |
-| <img src="/assets/images/flags/named/flag_sz.png" width="50" height="50" /> | :flag_sz: | Swaziland | ss, English | ss, en |
+| <img src="/assets/images/flags/named/flag_sz.png" width="50" height="50" /> | :flag_sz: | Swaziland | Swati, English | ss, en |
 | <img src="/assets/images/flags/named/flag_se.png" width="50" height="50" /> | :flag_se: | Sweden | Swedish | sv |
-| <img src="/assets/images/flags/named/flag_ch.png" width="50" height="50" /> | :flag_ch: | Switzerland | German, French, Italian, rm | de, fr, it, rm |
+| <img src="/assets/images/flags/named/flag_ch.png" width="50" height="50" /> | :flag_ch: | Switzerland | German, French, Italian, Romansh | de, fr, it, rm |
 | <img src="/assets/images/flags/named/flag_sy.png" width="50" height="50" /> | :flag_sy: | Syrian Arab Republic | Arabic | ar |
-| <img src="/assets/images/flags/named/flag_tw.png" width="50" height="50" /> | :flag_tw: | Taiwan | Chinese-tw | zh-tw |
-| <img src="/assets/images/flags/named/flag_tj.png" width="50" height="50" /> | :flag_tj: | Tajikistan | tg | tg |
+| <img src="/assets/images/flags/named/flag_tw.png" width="50" height="50" /> | :flag_tw: | Taiwan | Chinese | zh-tw |
+| <img src="/assets/images/flags/named/flag_tj.png" width="50" height="50" /> | :flag_tj: | Tajikistan | Tajik | tg |
 | <img src="/assets/images/flags/named/flag_tz.png" width="50" height="50" /> | :flag_tz: | Tanzania | Swahili | sw |
-| <img src="/assets/images/flags/named/flag_th.png" width="50" height="50" /> | :flag_th: | Thailand | th | th |
-| <img src="/assets/images/flags/named/flag_tl.png" width="50" height="50" /> | :flag_tl: | Timor-Leste | tet, Portuguese | tet, pt |
+| <img src="/assets/images/flags/named/flag_th.png" width="50" height="50" /> | :flag_th: | Thailand | Thai | th |
+| <img src="/assets/images/flags/named/flag_tl.png" width="50" height="50" /> | :flag_tl: | Timor-Leste | Tetum, Portuguese | tet, pt |
 | <img src="/assets/images/flags/named/flag_tg.png" width="50" height="50" /> | :flag_tg: | Togo | French | fr |
-| <img src="/assets/images/flags/named/flag_tk.png" width="50" height="50" /> | :flag_tk: | Tokelau | tkl, English | tkl, en |
-| <img src="/assets/images/flags/named/flag_to.png" width="50" height="50" /> | :flag_to: | Tonga | to, English | to, en |
+| <img src="/assets/images/flags/named/flag_tk.png" width="50" height="50" /> | :flag_tk: | Tokelau | Tokelau, English | tkl, en |
+| <img src="/assets/images/flags/named/flag_to.png" width="50" height="50" /> | :flag_to: | Tonga | Tonga, English | to, en |
 | <img src="/assets/images/flags/named/flag_tt.png" width="50" height="50" /> | :flag_tt: | Trinidad and Tobago | English | en |
 | <img src="/assets/images/flags/named/flag_tn.png" width="50" height="50" /> | :flag_tn: | Tunisia | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_tr.png" width="50" height="50" /> | :flag_tr: | Turkey | Turkish | tr |
-| <img src="/assets/images/flags/named/flag_tm.png" width="50" height="50" /> | :flag_tm: | Turkmenistan | tk | tk |
+| <img src="/assets/images/flags/named/flag_tm.png" width="50" height="50" /> | :flag_tm: | Turkmenistan | Turkmen | tk |
 | <img src="/assets/images/flags/named/flag_tc.png" width="50" height="50" /> | :flag_tc: | Turks and Caicos Islands | English | en |
-| <img src="/assets/images/flags/named/flag_tv.png" width="50" height="50" /> | :flag_tv: | Tuvalu | tvl, English | tvl, en |
+| <img src="/assets/images/flags/named/flag_tv.png" width="50" height="50" /> | :flag_tv: | Tuvalu | Tuvalu, English | tvl, en |
 | <img src="/assets/images/flags/named/flag_ug.png" width="50" height="50" /> | :flag_ug: | Uganda | English, Swahili | en, sw |
-| <img src="/assets/images/flags/named/flag_ua.png" width="50" height="50" /> | :flag_ua: | Ukraine | uk | uk |
+| <img src="/assets/images/flags/named/flag_ua.png" width="50" height="50" /> | :flag_ua: | Ukraine | Ukrainian | uk |
 | <img src="/assets/images/flags/named/flag_ae.png" width="50" height="50" /> | :flag_ae: | United Arab Emirates | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_gb.png" width="50" height="50" /> | :flag_gb: | United Kingdom | English | en |
 | <img src="/assets/images/flags/named/flag_us.png" width="50" height="50" /> | :flag_us: | United States | English | en |
 | <img src="/assets/images/flags/named/flag_um.png" width="50" height="50" /> | :flag_um: | United States Outlying Islands | English | en |
 | <img src="/assets/images/flags/named/flag_uy.png" width="50" height="50" /> | :flag_uy: | Uruguay | Spanish, Portuguese | es, pt |
-| <img src="/assets/images/flags/named/flag_uz.png" width="50" height="50" /> | :flag_uz: | Uzbekistan | uz | uz |
-| <img src="/assets/images/flags/named/flag_vu.png" width="50" height="50" /> | :flag_vu: | Vanuatu | bi, English, French | bi, en, fr |
+| <img src="/assets/images/flags/named/flag_uz.png" width="50" height="50" /> | :flag_uz: | Uzbekistan | Uzbek | uz |
+| <img src="/assets/images/flags/named/flag_vu.png" width="50" height="50" /> | :flag_vu: | Vanuatu | Bislama, English, French | bi, en, fr |
 | <img src="/assets/images/flags/named/flag_ve.png" width="50" height="50" /> | :flag_ve: | Venezuela | Spanish | es |
-| <img src="/assets/images/flags/named/flag_vn.png" width="50" height="50" /> | :flag_vn: | Vietnam | vi | vi |
+| <img src="/assets/images/flags/named/flag_vn.png" width="50" height="50" /> | :flag_vn: | Vietnam | Vietnamese | vi |
 | <img src="/assets/images/flags/named/flag_vg.png" width="50" height="50" /> | :flag_vg: | British Virgin Islands | English | en |
 | <img src="/assets/images/flags/named/flag_vi.png" width="50" height="50" /> | :flag_vi: | Us Virgin Islands | English | en |
 | <img src="/assets/images/flags/named/flag_wf.png" width="50" height="50" /> | :flag_wf: | Wallis and Futuna | French | fr |
 | <img src="/assets/images/flags/named/flag_eh.png" width="50" height="50" /> | :flag_eh: | Western Sahara | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_ye.png" width="50" height="50" /> | :flag_ye: | Yemen | Arabic | ar |
 | <img src="/assets/images/flags/named/flag_zm.png" width="50" height="50" /> | :flag_zm: | Zambia | English | en |
-| <img src="/assets/images/flags/named/flag_zw.png" width="50" height="50" /> | :flag_zw: | Zimbabwe | ny, English, xh, Southern Sotho, sn | ny, en, xh, st, sn |
+| <img src="/assets/images/flags/named/flag_zw.png" width="50" height="50" /> | :flag_zw: | Zimbabwe | Chichewa, English, Xhosa, Southern Sotho, Shona | ny, en, xh, st, sn |
