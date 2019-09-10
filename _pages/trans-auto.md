@@ -1,3 +1,4 @@
+
 ---
 title: "Translate - Channel Automatic"
 permalink: /trans-auto/
@@ -47,18 +48,19 @@ The language to translate from.
 # Examples  
 Using full language names
 ```bash
-!translate channel from **`english`** to **`spanish`**  
+> !translate channel from `**`english`**` to `**`spanish`**`
 ```
 
 Using language short codes
 ```bash
-!translate channel from **`en`** to **`es`**  
+> !translate channel from **`en`** to **`es`**  
 ```
 
 Assigning a user as the target for translations
 ```bash
-!translate channel from **`english`** to **`spanish`** for **`me`**
+> !translate channel from **`english`** to **`spanish`** for **`me`**
 ```
+
 
 ## Server Admins/Mods
 Send translations to same channel
@@ -67,12 +69,12 @@ Send translations to same channel
 ```
 
 Send translations to another channel in server
-```markdown
-!translate channel from *english* to __spanish__ for `#OtherChannelMention`  
+```bash
+!translate channel from [english] to [spanish] for [#OtherChannelMention]  
 ```
 
 Send translations to another user in server
-```ruby
+```yaml
 !translate channel from english to spanish for @UserMention
 ```
 
