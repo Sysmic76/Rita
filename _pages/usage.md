@@ -32,26 +32,26 @@ The bot's default prefix is !t (or !translate) - All commands must start with th
 
 ### Command structure
 
-```bash
+```js
 [prefix] + [main command] + [parameters]
 ```
 
 **For Example:**
 
-```bash
+```js
 !translate help misc
 ```
-```bash
+```js
 !t help misc
 ```
-```bash
+```js
 @Translator help misc
 ```
 
 ### Get help inside Discord
 
 Use this command within any channel the bot has permissions
-```bash
+```js
 !translate help
 ```
 
