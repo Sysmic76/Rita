@@ -63,26 +63,36 @@ Assigning a user as the target for translations
 
 ## Server Admins/Mods
 Send translations to same channel
-```json
-!translate channel from english to spanish for #SameChannelMention
+```css
+!translate channel from [english] to [spanish] for [#SameChannelMention]
+!translate channel from [english] to [spanish] for [@UserMention]
 ```
 
-Send translations to another channel in server
-```bash
-!translate channel from [english] to [spanish] for [\#OtherChannelMention]
+```ruby
+!translate channel from [english] to [spanish] for [#SameChannelMention]
+!translate channel from [english] to [spanish] for [@UserMention]
 ```
-
-Send translations to another user in server
-
-```bash
-!translate channel from english to spanish for @UserMention
-```
-
-Send translations to multiple channels/users in server at once
 
 ```bash
-!translate channel from english to spanish for #Channel1, #Channel2, @User1, @User2
+!translate channel from [english] to [spanish] for [#SameChannelMention]
+!translate channel from [english] to [spanish] for [@UserMention]
 ```
+
+```js
+!translate channel from [english] to [spanish] for [#SameChannelMention]
+!translate channel from [english] to [spanish] for [@UserMention]
+```
+
+```c++
+!translate channel from [english] to [spanish] for [#SameChannelMention]
+!translate channel from [english] to [spanish] for [@UserMention]
+```
+
+
+> !translate channel from [english] to [spanish] for [#SameChannelMention]    
+!translate channel from [english] to [spanish] for [@UserMention]
+
+
 
 ## Stopping
 To stop an automatic translation task, simply go the original channel and use the stop command:
