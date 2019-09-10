@@ -36,10 +36,10 @@ The full Supported list can be found below
 | Flag | Flag Code | Country | Translates to |
 |------|-----------|------------------------------------|--------------------|
 | https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/214/flag-for-afghanistan_1f1e6-1f1eb.png | :flag_af: | Afghanistan | ps |
-|  | :flag_ax: | Aland Islands | sv |
-|  | :flag_al: | Albania | sq |
-|  | :flag_dz: | Algeria | ar, fr |
-|  | :flag_as: | American Samoa | en, sm |
+| (/assets/images/flags/named/flag_ax.jpg) | :flag_ax: | Aland Islands | sv |
+| (assets/images/flags/named/flag_al.jpg) | :flag_al: | Albania | sq |
+| [](assets/images/flags/named/flag_dz.jpg) | :flag_dz: | Algeria | ar, fr |
+| ![](assets/images/flags/named/flag_as.jpg) | :flag_as: | American Samoa | en, sm |
 |  | :flag_ad: | Andorra | ca |
 |  | :flag_ao: | Angola | pt |
 |  | :flag_ai: | Anguilla | en |
@@ -265,7 +265,7 @@ The full Supported list can be found below
 |  | :flag_ug: | Uganda | en, sw |
 |  | :flag_ua: | Ukraine | uk |
 |  | :flag_ae: | United Arab Emirates | ar |
-| image_path: /assets/images/flags/gb.jpg | :flag_gb: | United Kingdom | en |
+| image_path: /assets/images/flags/named/flag_gb.jpg | :flag_gb: | United Kingdom | en |
 |  | :flag_us: | United States | en |
 |  | :flag_um: | United States Outlying Islands | en |
 |  | :flag_uy: | Uruguay | es, pt |
