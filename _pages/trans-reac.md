@@ -42,7 +42,7 @@ The full Supported list can be found below
 | ![](assets/images/flags/named/flag_as.jpg) | :flag_as: | American Samoa | en, sm |
 | [](/assets/images/flags/named/flag_ad.jpg) | :flag_ad: | Andorra | ca |
 | ![](/assets/images/flags/named/flag_ad.jpg) | :flag_ao: | Angola | pt |
-|  | :flag_ai: | Anguilla | en |
+| <img src="/assets/images/flags/named/flag_ai.jpg" alt="flag_ai"/>  | :flag_ai: | Anguilla | en |
 |  | :flag_aq: | Antarctica | null |
 |  | :flag_ag: | Antigua And Barbuda | en |
 |  | :flag_ar: | Argentina | es |
