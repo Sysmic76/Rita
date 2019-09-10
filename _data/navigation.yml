@@ -30,7 +30,8 @@ docs:
       - title: "Settings"
         url: /about/        
       - title: "Misc. Commands"
-        url: /about/             
+        url: /about/           
+        
   - title: "Setting up a New Bot"
     url: /new-bot/
     children:
@@ -42,6 +43,7 @@ docs:
         url: /new-bot/#step-3---create-a-heroku-account
       - title: "4. Invite"
         url: /new-bot/#step-4---invite-your-bot-to-your-server-and-configure-it  
+        
   - title: "How to Update"
     url: /update/
   - title: "C-3PO to RITA Bot Migration"
@@ -61,7 +63,7 @@ docs:
   - title: About Rita
     url: /about/
 
-- title: New Bot
+  - title: New Bot
     children:
       - title: "Demo Link"
         url: /about/
