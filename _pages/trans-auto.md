@@ -69,16 +69,18 @@ Send translations to same channel
 
 Send translations to another channel in server
 ```bash
-!translate channel from [english] to [spanish] for [#OtherChannelMention]  
+!translate channel from [english] to [spanish] for [\#OtherChannelMention]
 ```
 
 Send translations to another user in server
-```yaml
+
+```bash
 !translate channel from english to spanish for @UserMention
 ```
 
 Send translations to multiple channels/users in server at once
-```yaml
+
+```bash
 !translate channel from english to spanish for #Channel1, #Channel2, @User1, @User2
 ```
 
