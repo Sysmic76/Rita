@@ -63,7 +63,7 @@ Assigning a user as the target for translations
 
 ## Server Admins/Mods
 Send translations to same channel
-```json
+```css
 !translate channel from [english] to [spanish] for [#SameChannelMention]
 ```
 
@@ -74,8 +74,8 @@ Send translations to another channel in server
 
 Send translations to another user in server
 
-```bash
-!translate channel from english to spanish for @UserMention
+```css
+!translate channel from [english] to [spanish] for [@UserMention]
 ```
 
 Send translations to multiple channels/users in server at once
