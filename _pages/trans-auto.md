@@ -62,23 +62,23 @@ Assigning a user as the target for translations
 
 ## Server Admins/Mods
 Send translations to same channel
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#SameChannelMention`**
+```json
+!translate channel from english to spanish for #SameChannelMention
 ```
 
 Send translations to another channel in server
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#OtherChannelMention`**  
+```markdown
+!translate channel from *english* to __spanish__ for `#OtherChannelMention`  
 ```
 
 Send translations to another user in server
-```bash
-!translate channel from **`english`** to **`spanish`** for **`@UserMention`**
+```ruby
+!translate channel from english to spanish for @UserMention
 ```
 
 Send translations to multiple channels/users in server at once
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#Channel1`**, **`#Channel2`**, **`@User1`**, **`@User2`**
+```yaml
+!translate channel from english to spanish for #Channel1, #Channel2, @User1, @User2
 ```
 
 ## Stopping
