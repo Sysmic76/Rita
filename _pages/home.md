@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/3.jpg
     alt: "100% free"
-    title: "100% free"
+    title: "MIT License"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/license/"
     btn_class: "btn--primary"
