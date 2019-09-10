@@ -36,13 +36,13 @@ The full Supported list can be found below
 | Flag | Flag Code | Country | Translates to |
 |------|-----------|------------------------------------|--------------------|
 | https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/214/flag-for-afghanistan_1f1e6-1f1eb.png | :flag_af: | Afghanistan | ps |
-| (/assets/images/flags/named/flag_ax.jpg) | :flag_ax: | Aland Islands | sv |
-| (assets/images/flags/named/flag_al.jpg) | :flag_al: | Albania | sq |
-| [](assets/images/flags/named/flag_dz.jpg) | :flag_dz: | Algeria | ar, fr |
-| ![](assets/images/flags/named/flag_as.jpg) | :flag_as: | American Samoa | en, sm |
-| [](/assets/images/flags/named/flag_ad.jpg) | :flag_ad: | Andorra | ca |
-| ![](/assets/images/flags/named/flag_ad.jpg) | :flag_ao: | Angola | pt |
-| <img src="/assets/images/flags/named/flag_ai.jpg" alt="flag_ai"/>  | :flag_ai: | Anguilla | en |
+| (/assets/images/flags/named/flag_ax.png) | :flag_ax: | Aland Islands | sv |
+| (assets/images/flags/named/flag_al.png) | :flag_al: | Albania | sq |
+| [](assets/images/flags/named/flag_dz.png) | :flag_dz: | Algeria | ar, fr |
+| ![](assets/images/flags/named/flag_as.png) | :flag_as: | American Samoa | en, sm |
+| [](/assets/images/flags/named/flag_ad.png) | :flag_ad: | Andorra | ca |
+| ![](/assets/images/flags/named/flag_ad.png) | :flag_ao: | Angola | pt |
+| <img src="/assets/images/flags/named/flag_ai.png" alt="flag_ai"/>  | :flag_ai: | Anguilla | en |
 |  | :flag_aq: | Antarctica | null |
 |  | :flag_ag: | Antigua And Barbuda | en |
 |  | :flag_ar: | Argentina | es |
