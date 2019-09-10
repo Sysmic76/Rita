@@ -62,24 +62,18 @@ Assigning a user as the target for translations
 
 ## Server Admins/Mods
 Send translations to same channel
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#SameChannelMention`**
-```
+<pre><code> !translate channel from <mark>english</mark> to <mark>spanish</mark> for <mark>#SameChannelMention</mark></pre></code>
 
 Send translations to another channel in server
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#OtherChannelMention`**  
-```
+
+<pre><code> !translate channel from <mark>english</mark> to <mark>spanish</mark> for <mark>#OtherChannelMention</mark> </pre></code>
+
 
 Send translations to another user in server
-```bash
-!translate channel from **`english`** to **`spanish`** for **`@UserMention`**
-```
+<pre><code>!translate channel from <mark>english</mark> to <mark>spanish</mark> for <mark>@UserMention</mark></pre></code>
 
 Send translations to multiple channels/users in server at once
-```bash
-!translate channel from **`english`** to **`spanish`** for **`#Channel1`**, **`#Channel2`**, **`@User1`**, **`@User2`**
-```
+<pre><code>!translate channel from <mark>english</mark> to <mark>spanish</mark> for <mark>#Channel1</mark>, <mark>#Channel2</mark>, <mark>@User1</mark>, <mark>@User2</mark></pre></code>
 
 ## Stopping
 To stop an automatic translation task, simply go the original channel and use the stop command:
