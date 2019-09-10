@@ -30,7 +30,7 @@ Bot must have proper permissions in all relevant channels for full functionality
 Automatically translates any new messages in the current channel and forwards them to you. Admins/mods can set forwarding to same channel, other channels or other users in the server. Messages in forwarded channels will also be sent back to origin*.
 
 # Command
-```bash
+```c++
 !translate channel from '[lang]' to `[lang]` for [dest]
 ```
 
@@ -46,75 +46,63 @@ The language to translate from.
 
 # Examples  
 Using full language names
-```bash
-> !translate channel from `**`english`**` to `**`spanish`**`
+```c++
+> !translate channel from [english] to [spanish]
 ```
 
 Using language short codes
-```bash
-> !translate channel from **`en`** to **`es`**  
+```c++
+> !translate channel from [en] to [es]
 ```
 
 Assigning a user as the target for translations
-```bash
-> !translate channel from **`english`** to **`spanish`** for **`me`**
+```c++
+> !translate channel from [english] to [spanish] for [me]
 ```
 
 
 ## Server Admins/Mods
 Send translations to same channel
-```css
-!translate channel from [english] to [spanish] for [#SameChannelMention]
-!translate channel from [english] to [spanish] for [@UserMention]
-```
-
-```ruby
-!translate channel from [english] to [spanish] for [#SameChannelMention]
-!translate channel from [english] to [spanish] for [@UserMention]
-```
-
-```bash
-!translate channel from [english] to [spanish] for [#SameChannelMention]
-!translate channel from [english] to [spanish] for [@UserMention]
-```
-
-```js
-!translate channel from [english] to [spanish] for [#SameChannelMention]
-!translate channel from [english] to [spanish] for [@UserMention]
-```
-
 ```c++
 !translate channel from [english] to [spanish] for [#SameChannelMention]
+```
+
+Send translations to another channel in server
+```c++
+!translate channel from [english] to [spanish] for [#OtherChannelMention]
+```
+
+Send translations to another user in server
+```c++
 !translate channel from [english] to [spanish] for [@UserMention]
 ```
 
-
-> !translate channel from [english] to [spanish] for [#SameChannelMention]    
-!translate channel from [english] to [spanish] for [@UserMention]
-
-
+Send translations to multiple channels/users in server at once
+```c++
+!translate channel from [english] to [spanish] for [#Channel1], [#Channel2], [@User1], [@User2]
+```
 
 ## Stopping
 To stop an automatic translation task, simply go the original channel and use the stop command:
-```bash
+```c++
 !translate stop  
-!translate stop for me
+!translate stop for [me]
 ```
 
 ## Admins/Mods
 Stop all automatic translations
-```bash
-!translate stop for all
+```c++
+!translate stop for [all]
 ```
 
 Stop all automatic translations for specific channel in server
-```bash
-!translate stop for #ForwardChannelMention
+```c++
+!translate stop for [#ForwardChannelMention]
 ```
 
 Stop all automatic translations for specific user in server
-```bash
-!translate stop for @UserMention
+```c++
+!translate stop for [@UserMention]
 ```
 
 *Help command for stop: `!translate help stop`*
