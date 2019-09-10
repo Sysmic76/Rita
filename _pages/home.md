@@ -31,7 +31,7 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/license/"
     btn_class: "btn--primary"
-    btn_label: "Fork Now"      
+    btn_label: "License Info"      
 ---
 
 {% include feature_row %}
