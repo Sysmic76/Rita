@@ -35,7 +35,7 @@ The full Supported list can be found below
 
 | Flag | Flag Code | Country | Translates to |
 |------|-----------|------------------------------------|--------------------|
-|  | :flag_af: | Afghanistan | ps |
+| image_path:https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/214/flag-for-afghanistan_1f1e6-1f1eb.png | :flag_af: | Afghanistan | ps |
 |  | :flag_ax: | Aland Islands | sv |
 |  | :flag_al: | Albania | sq |
 |  | :flag_dz: | Algeria | ar, fr |
@@ -265,7 +265,7 @@ The full Supported list can be found below
 |  | :flag_ug: | Uganda | en, sw |
 |  | :flag_ua: | Ukraine | uk |
 |  | :flag_ae: | United Arab Emirates | ar |
-|  | :flag_gb: | United Kingdom | en |
+| image_path: /assets/images/flags/United_Kingdom.jpg | :flag_gb: | United Kingdom | en |
 |  | :flag_us: | United States | en |
 |  | :flag_um: | United States Outlying Islands | en |
 |  | :flag_uy: | Uruguay | es, pt |
