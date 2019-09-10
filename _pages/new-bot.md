@@ -2,9 +2,22 @@
 title: "How to install and setup Rita for the First Time."
 permalink: /new-bot/
 excerpt: "How to install and setup Rita for the First Time."
+last_modified_at: 2019-09-10T14:00:00+01:00   #Please Update, The +00:00 is the Time Zone difference
 redirect_from:
   - /theme-setup/
 toc: true
+
+# Date formatting & Date Parsing - Let formatting and parsing date expressed in ISO8601 format.
+# Can be obtained from https://dencode.com/en/date
+# ---- Defined ----
+# YYYY-MM-DD'T'hh:mm:ssTZD (e.g. 2015-12-11T20:28:30+01:00)
+# YYYY = four-digit year
+# MM = two-digit month (01=January, etc.)
+# DD = two-digit day of month (01 through 31)
+# hh = two digits of hour (00 through 23) (am/pm NOT allowed)
+# mm = two digits of minute (00 through 59)
+# ss = two digits of second (00 through 59)
+# TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
 
 Rita is a an automatic translation bot built using `discord.js` and `Google Translate API`.
@@ -26,7 +39,7 @@ Create a new [Discord App](https://discordapp.com/developers/applications/me/cre
 Give app a friendly name and click the **Create App** button
 
  *I like the name **Rita**, but feel free to pick something different if you want.*
- 
+
 Take note of the app **CLIENT ID**, you will need it later
 
 Scroll down to the **Bot** section
@@ -42,7 +55,7 @@ Copy the bot's **TOKEN**, you will need it later
 
 Create a new [Heroku](https://id.heroku.com/signup/login ) account. *(It's free!)*
 
-Create a new app. It's name must be unique and composed of all lowercase letters and dashes. 
+Create a new app. It's name must be unique and composed of all lowercase letters and dashes.
 Something like `yourname-discordbot` is fine
 
 Under **Deployment Method** select Github. Connect to your Github account and search for this repo by name.
@@ -57,7 +70,7 @@ Go to the **Overview** tab and click configure dynos. Turn off the default `web 
 
 ### Step 4 - Invite your bot to your server and configure it!
 
-Replace the CLIENTID string in the following url with your own apps client id: 
+Replace the CLIENTID string in the following url with your own apps client id:
 
 ```
 https://discordapp.com/oauth2/authorize?&client_id=CLIENTID&scope=bot&permissions=8
