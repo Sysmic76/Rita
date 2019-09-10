@@ -17,30 +17,17 @@ The bot's default prefix is !t (or !translate) - All commands must start with th
 
 * Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).
 
-### Command structure
+### Translate Channel Automatic
 
-```bash
-[prefix] + [main command] + [parameters]
-```
+### Translate by Reacting
 
-**For Example:**
+### Translate Last Message
 
-```bash
-!translate help misc
-```
-```bash
-!t help misc
-```
-```bash
-@Translator help misc
-```
+### Translate Custom Message
 
-### Get help inside Discord
+### Settings
 
-Use this command within any channel the bot has permissions
-```bash
-!translate help
-``` 
+### Misc. Commands
 
 ### Requesting features or reporting bugs
 
