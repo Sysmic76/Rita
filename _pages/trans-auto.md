@@ -1,4 +1,3 @@
-
 ---
 title: "Translate - Channel Automatic"
 permalink: /trans-auto/
