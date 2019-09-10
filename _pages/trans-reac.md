@@ -41,7 +41,7 @@ The full Supported list can be found below
 | [](assets/images/flags/named/flag_dz.png) | :flag_dz: | Algeria | ar, fr |
 | ![](assets/images/flags/named/flag_as.png) | :flag_as: | American Samoa | en, sm |
 | [](/assets/images/flags/named/flag_ad.png) | :flag_ad: | Andorra | ca |
-| ![](/assets/images/flags/named/flag_ad.png) | :flag_ao: | Angola | pt |
+| ![](/assets/images/flags/named/flag_ad.png){: width="50"} | :flag_ao: | Angola | pt |
 | <img src="/assets/images/flags/named/flag_ai.png" width="50" height="50" />  | :flag_ai: | Anguilla | en |
 |  | :flag_aq: | Antarctica | null |
 |  | :flag_ag: | Antigua And Barbuda | en |
