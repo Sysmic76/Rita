@@ -74,7 +74,7 @@ Error messages are not what we want to see, but they are helpful to work out wha
 
 ## Commands & Settings
 
-Look no further for example commands [Click Here](/commands/)
+Look no further for example commands [Click Here](/wiki/)
 
 ## Credits & License
 

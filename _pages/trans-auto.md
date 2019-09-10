@@ -25,13 +25,15 @@ toc: true
 *The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
 Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
 
+*Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.*
+
 ----
 
 Automatically translates any new messages in the current channel and forwards them to you. Admins/mods can set forwarding to same channel, other channels or other users in the server. Messages in forwarded channels will also be sent back to origin*.
 
 # Command
 ```c++
-!translate channel from '[lang]' to `[lang]` for [dest]
+!translate channel from [lang] to [lang] for [dest]
 ```
 
 # Parameters
@@ -64,45 +66,45 @@ Assigning a user as the target for translations
 ## Server Admins/Mods
 Send translations to same channel
 ```c++
-!translate channel from [english] to [spanish] for [#SameChannelMention]
+> !translate channel from [english] to [spanish] for [#SameChannelMention]
 ```
 
 Send translations to another channel in server
 ```c++
-!translate channel from [english] to [spanish] for [#OtherChannelMention]
+> !translate channel from [english] to [spanish] for [#OtherChannelMention]
 ```
 
 Send translations to another user in server
 ```c++
-!translate channel from [english] to [spanish] for [@UserMention]
+> !translate channel from [english] to [spanish] for [@UserMention]
 ```
 
 Send translations to multiple channels/users in server at once
 ```c++
-!translate channel from [english] to [spanish] for [#Channel1], [#Channel2], [@User1], [@User2]
+> !translate channel from [english] to [spanish] for [#Channel1], [#Channel2], [@User1], [@User2]
 ```
 
 ## Stopping
 To stop an automatic translation task, simply go the original channel and use the stop command:
 ```c++
-!translate stop  
-!translate stop for [me]
+> !translate stop  
+> !translate stop for [me]
 ```
 
 ## Admins/Mods
 Stop all automatic translations
 ```c++
-!translate stop for [all]
+> !translate stop for [all]
 ```
 
 Stop all automatic translations for specific channel in server
 ```c++
-!translate stop for [#ForwardChannelMention]
+> !translate stop for [#ForwardChannelMention]
 ```
 
 Stop all automatic translations for specific user in server
 ```c++
-!translate stop for [@UserMention]
+> !translate stop for [@UserMention]
 ```
 
 *Help command for stop: `!translate help stop`*

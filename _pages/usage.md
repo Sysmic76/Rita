@@ -20,6 +20,15 @@ toc: true
 # TZD = time zone designator (Z or +hh:mm or -hh:mm)
 ---
 
+**Important Note**
+
+*The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
+Bot must have proper permissions in all relevant channels for full functionality (**read**, **write**, **react**, **mention**, **attachments**, **embed**).*
+
+*Users who wish to receive automatic translations in private must **enable DMs** via **server privacy settings**.*
+
+----
+
 ## Prefix and Commands
 
 The bot's default prefix is !t (or !translate) - All commands must start with this prefix for the bot to process them.
@@ -57,4 +66,4 @@ Use this command within any channel the bot has permissions
 
 ### Requesting features or reporting bugs
 
-Please join the [Official Rita Discord Server](https://discord.gg/mgNR64R) to get support, keep up to date with changes and report bugs. There is always somone that can help you.  
+Please join the [Official Rita Discord Server](https://discord.gg/mgNR64R) to get support, keep up to date with changes and report bugs, alternatively you can submit your request via a Github [issue tracker](https://github.com/ZyC0R3/Rita/issues). There is always someone that can help you.  
