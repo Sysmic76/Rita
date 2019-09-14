@@ -46,9 +46,9 @@ toc: true
 
 ### Other Information
 
-What some users do not know that along with he development and maintenance of Rita, there are 3 other Repo's that we maintain Vital to the inner working of the bot.
+What some users do not know is that along with the development and maintenance of Rita, there are 3 other Repo's that we maintain Vital to the inner working of the bot.
 
-[Google Translate API](https://github.com/ZyC0R3/google-translate-api) & [Google Translate Token](https://github.com/ZyC0R3/google-translate-token) These two are vital to the bot working, without the original creator and everyone who has made it hat it is Rita would not be who she is. This was Cloned at the current stage to prevent changes to the api that might effect the bot, as this is not something that we would be able to know before hand.
+[Google Translate API](https://github.com/ZyC0R3/google-translate-api) & [Google Translate Token](https://github.com/ZyC0R3/google-translate-token) These two are vital to the bot working. Without the original creator and everyone who has made it what it is, Rita would not be who she is. This was Cloned at the current stage to prevent changes to the api that might effect the bot, as this is not something that we would be able to know before hand.
 
 
-[Gulp-watch](https://github.com/ZyC0R3/gulp-watch) is a amazing repo, but has been neglected for many many moons, so we have cloned this too, keeping it up-to-date and tweeking it for our own use.
+[Gulp-watch](https://github.com/ZyC0R3/gulp-watch) is an amazing repo, but has been neglected for many many moons, so we have cloned this too, keeping it up-to-date and tweeking it for our own use.
